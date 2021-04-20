@@ -1,0 +1,4 @@
+- For es una forma para darle la orden a la computadora para que repita un numero determinado de veces , hasta que no se cumpla la condicion .
+&& : cumple la funcion de un Y . 
+|| : cumple la funcion de una o .
+"!": cumple la funcion de un NO.

@@ -1,0 +1,12 @@
+* Variables es como una caja dentro de una caja nosotros podemos guardar cosas
+
+* Strings es una cadena de caracteres.
+
+
+* Funciones (argumentos, `return`) return : me devuelve lo que espera recibir o un cierto resultado .
+Argumento : son parametros .
+
+* Declaraciones `if` cumple la funcion de un SI , si sucede algo o sucede lo contrario .
+	
+* Valores booleanos (`true`, `false`) verdadero o falso . Si se cumple una condicion es verdadero y si no falso .
+
