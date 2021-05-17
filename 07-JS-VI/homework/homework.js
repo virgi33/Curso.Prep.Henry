@@ -1,10 +1,13 @@
 // Do not change any of the function names
 
-function mayuscula(nombre) {
-  //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
-  //ej: Recibe "mario" ----> Devuelve "Mario"
-  //Tu código:
-}
+  function mayuscula (nombre) {
+    //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
+    //ej: Recibe "mario" ----> Devuelve "Mario"
+
+    const primerCaracter = nombre.charAt(0).toUpperCase();
+    const restoDeLaCadena = nombre.substring(1, nombre.length);
+    return primerCaracter + restoDeLaCadena;
+  }
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
